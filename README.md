@@ -1,8 +1,18 @@
 # VR Workspace
 
-## Front-End 
+## Getting Started 
 
-### Getting Started 
+1. Navigate to a Folder you want the files in and clone repo 
+'''
+git clone https://github.com/HenyoDevelopment/VR-Assistant
+cd VR-Assistant 
+'''
+2. Create branch for your feature (fe = front end) (be = back end)
+'''
+git branch fe-nameoffeature
+'''
+
+## Front-End 
 
 These are the tools I use to get up and running with API.AI in Node.js 
 
@@ -10,7 +20,7 @@ These are the tools I use to get up and running with API.AI in Node.js
 2. [ngrok] (https://ngrok.com/) To run locally
 3. [Node.js] (https://nodejs.org/en/)
 
-Steps to create a new feature: 
+### Steps to create a new feature: 
 
 1. Define action name 
 2. Create handler function 
