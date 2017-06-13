@@ -21,3 +21,5 @@ Steps to create a new feature:
        })
 6. Create the function in utilities 
 7. Map the action at the bottom 
+
+DM Sani on Slack for questions
