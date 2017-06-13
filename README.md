@@ -1,16 +1,17 @@
 # VR Workspace
 
-## Getting Started 
+## Gettin started
 
 1. Navigate to a Folder you want the files in and clone repo 
-'''
+```
 git clone https://github.com/HenyoDevelopment/VR-Assistant
 cd VR-Assistant 
-'''
+```
 2. Create branch for your feature (fe = front end) (be = back end)
-'''
-git branch fe-nameoffeature
-'''
+```
+git branch fe-nameOfFeature
+git checkout fe-nameOfFeature
+```
 
 ## Front-End 
 
